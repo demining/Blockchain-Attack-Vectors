@@ -28,6 +28,13 @@
 <p>However, weak spots are often challenging to detect, since they can be hidden in unobvious places. For instance, the&nbsp;<a href="https://cointelegraph.com/news/parity-multisig-wallet-hacked-or-how-come" target="_blank" rel="noreferrer noopener">Parity multisig wallet was hacked</a>&nbsp;by breaking a library that had a withdraw function in it. The attacker managed to initialize the library itself as a wallet and claim owner rights to it. As a result, 573 wallets were affected, $30 million worth of crypto was stolen, and another $180 million rescued by a white hat hacker group was later returned to the rightful owners.</p>
 
 
+----
+
+* Tutorial: https://youtu.be/7pqVNbcGzls
+* Tutorial: https://cryptodeeptech.ru/blockchain-attack-vectors
+
+----
+
 
 <p>By attacking such huge networks as&nbsp;<a href="https://bitcoin.org/en" target="_blank" rel="noreferrer noopener">Bitcoin</a>&nbsp;and&nbsp;<a href="https://ethereum.org/en" target="_blank" rel="noreferrer noopener">Ethereum</a>, cybercriminals show that they’re clever enough to disprove the myth of blockchain security. Let’s consider the five most common blockchain attack vectors:</p>
 
